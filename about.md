@@ -5,10 +5,13 @@ banner_image: "/uploads/2020/07/27/psx_20190919_074424.jpg"
 heading: About Sangam Ventures
 sub_heading: ''
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
+textline: Sangam Ventures is a seed and early stage venture fund that invests to improve
+  access to sustainable energy and resource productivity solutions for the underserved
+  in India that can lead to inclusive development and creation of communities that
+  are resilient to climate change.
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
+show_news: true
 menu:
   footer:
     identifier: _about
