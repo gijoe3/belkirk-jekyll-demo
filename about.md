@@ -5,10 +5,8 @@ banner_image: "/uploads/2020/07/27/psx_20190919_074424.jpg"
 heading: About Sangam Ventures
 sub_heading: ''
 layout: landing-page
-textline: Sangam Ventures is a seed and early stage venture fund that invests to improve
-  access to sustainable energy and resource productivity solutions for the underserved
-  in India that can lead to inclusive development and creation of communities that
-  are resilient to climate change.
+textline: We are a promote ideas to fight climate change supporting entrepreneurs
+  when they need it the most.
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 show_news: true
@@ -22,6 +20,4 @@ menu:
 published: false
 
 ---
-The Belkirk College of Engineering (Belkirk) specializes in innovative research to support the healthcare and biotech industries. We are interested in advancing research in areas that are pressing and relevant to the health and biotech industries and regularly develop new projects and collaborations to accomplish this goal. We are currently engaged in a variety of ongoing projects within the areas of mental health, data analysis, knowledge translation, and cluster research.
-
-Students at Belkirk get to learn from leaders in the biotech industy, as well as get access to cutting edge projects and technologies to further their learning endeavours.
+Sangam Ventures is a seed and early stage venture fund that invests to improve access to sustainable energy and resource productivity solutions for the underserved in India that can lead to inclusive development and creation of communities that are resilient to climate change.
