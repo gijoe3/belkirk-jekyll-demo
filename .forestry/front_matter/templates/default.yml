@@ -4,7 +4,7 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: Sangam Ventures
+  label: Title
   config:
     required: true
 - type: textarea
