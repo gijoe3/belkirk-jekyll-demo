@@ -24,6 +24,9 @@ hero_button:
 show_news: true
 show_staff: true
 portfolio:
+- heading: Solshare
+  description: ''
+  icon: ''
 - heading: Carbon Masters
   description: ''
   icon: ''
