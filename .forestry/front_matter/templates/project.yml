@@ -4,7 +4,7 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: Title
+  label: Resources
 - name: sub_heading
   label: Sub Heading
   type: text
