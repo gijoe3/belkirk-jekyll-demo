@@ -26,6 +26,5 @@ hero_button:
   href: "/about"
 show_news: true
 show_staff: false
-published: false
 
 ---
