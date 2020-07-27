@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/uploads/2020/07/27/psx_20190919_074424.jpg"
 layout: landing-page
-heading: Sangam Venntures
+heading: Sangam Ventures
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
@@ -16,7 +16,7 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: We help fight climate chage by promoting early stage startups
+sub_heading: We help fight climate change by promoting early stage startups
 textline: ''
 hero_button:
   text: Learn more
