@@ -17,10 +17,7 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: We help fight climate chage by promoting early stage startups
-textline: |
-  Belkirk College of Engineering
-
-  Ora et Labora
+textline: ''
 hero_button:
   text: Learn more
   href: "/about"
