@@ -8,7 +8,7 @@ layout: landing-page
 textline: We are a promote ideas to fight climate change supporting entrepreneurs
   when they need it the most.
 publish_date: '2017-12-01T04:00:00.000+00:00'
-show_staff: true
+show_staff: false
 show_news: true
 menu:
   footer:
