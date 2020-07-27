@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Us
 date: '2017-11-01T03:00:00.000+00:00'
 banner_image: "/uploads/2020/07/27/psx_20190919_074424.jpg"
 heading: About Sangam Ventures
