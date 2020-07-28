@@ -2,6 +2,11 @@
 label: landing-page
 hide_body: false
 fields:
+- name: logo
+  type: file
+  config:
+    maxSize: 64
+  label: Logo
 - name: title
   label: Title
   type: text
