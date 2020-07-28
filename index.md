@@ -3,10 +3,7 @@ title: Home
 banner_image: "/uploads/2020/07/27/psx_20190919_074424.jpg"
 layout: landing-page
 heading: Sangam Ventures
-partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+partners: []
 services:
 - description: Performing collaborative research and providing services to support
     the Health Sector.
